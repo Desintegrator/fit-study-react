@@ -1,4 +1,4 @@
 import Lesson from './Lesson/Lesson.js';
-import Menu from './Menu/Menu.js';
+import ChaptersPage from './Chapters/Chapters.js';
 
-export {Lesson,  Menu};
+export {Lesson,  ChaptersPage};
